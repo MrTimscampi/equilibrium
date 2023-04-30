@@ -1,0 +1,198 @@
+[
+    {
+        "id": 1,
+        "name": "Arlan",
+        "released": true,
+        "stars": 4,
+        "path": "destruction"
+    },
+    {
+        "id": 2,
+        "name": "Asta",
+        "released": true,
+        "stars": 4,
+        "path": "harmony"
+    },
+    {
+        "id": 3,
+        "name": "Bailu",
+        "released": true,
+        "stars": 5,
+        "path": "abundance"
+    },
+    {
+        "id": 4,
+        "name": "Blade",
+        "released": false,
+        "stars": 5,
+        "path": "destruction"
+    },
+    {
+        "id": 5,
+        "name": "Bronya",
+        "released": true,
+        "stars": 5,
+        "path": "harmony"
+    },
+    {
+        "id": 6,
+        "name": "Clara",
+        "released": true,
+        "stars": 5,
+        "path": "destruction"
+    },
+    {
+        "id": 7,
+        "name": "Dan Heng",
+        "released": true,
+        "stars": 4,
+        "path": "hunt"
+    },
+    {
+        "id": 8,
+        "name": "Gepard",
+        "released": true,
+        "stars": 5,
+        "path": "preservation"
+    },
+    {
+        "id": 9,
+        "name": "Herta",
+        "released": true,
+        "stars": 4,
+        "path": "erudition"
+    },
+    {
+        "id": 10,
+        "name": "Himeko",
+        "released": true,
+        "stars": 5,
+        "path": "erudition"
+    },
+    {
+        "id": 11,
+        "name": "Hook",
+        "released": true,
+        "stars": 4,
+        "path": "destruction"
+    },
+    {
+        "id": 12,
+        "name": "Jing Yuan",
+        "released": false,
+        "stars": 5,
+        "path": "erudition"
+    },
+    {
+        "id": 13,
+        "name": "Kafka",
+        "released": false,
+        "stars": 5,
+        "path": "nihility"
+    },
+    {
+        "id": 14,
+        "name": "Luocha",
+        "released": false,
+        "stars": 5,
+        "path": "abundance"
+    },
+    {
+        "id": 15,
+        "name": "March 7th",
+        "released": true,
+        "stars": 4,
+        "path": "preservation"
+    },
+    {
+        "id": 16,
+        "name": "Natasha",
+        "released": true,
+        "stars": 4,
+        "path": "abundance"
+    },
+    {
+        "id": 17,
+        "name": "Pela",
+        "released": true,
+        "stars": 4,
+        "path": "nihility"
+    },
+    {
+        "id": 18,
+        "name": "Qingque",
+        "released": true,
+        "stars": 4,
+        "path": "erudition"
+    },
+    {
+        "id": 19,
+        "name": "Sampo",
+        "released": true,
+        "stars": 4,
+        "path": "nihility"
+    },
+    {
+        "id": 20,
+        "name": "Seele",
+        "released": true,
+        "stars": 5,
+        "path": "hunt"
+    },
+    {
+        "id": 21,
+        "name": "Serval",
+        "released": true,
+        "stars": 4,
+        "path": "erudition"
+    },
+    {
+        "id": 22,
+        "name": "Silver Wolf",
+        "released": false,
+        "stars": 5,
+        "path": "nihility"
+    },
+    {
+        "id": 23,
+        "name": "Sushang",
+        "released": true,
+        "stars": 4,
+        "path": "hunt"
+    },
+    {
+        "id": 24,
+        "name": "Tingyun",
+        "released": true,
+        "stars": 4,
+        "path": "harmony"
+    },
+    {
+        "id": 25,
+        "name": "Trailblazer (Physical)",
+        "released": true,
+        "stars": 5,
+        "path": "destruction"
+    },
+    {
+        "id": 26,
+        "name": "Trailblazer (Fire)",
+        "released": true,
+        "stars": 5,
+        "path": "preservation"
+    },
+    {
+        "id": 27,
+        "name": "Welt",
+        "released": true,
+        "stars": 5,
+        "path": "nihility"
+    },
+    {
+        "id": 28,
+        "name": "Yanqing",
+        "released": true,
+        "stars": 5,
+        "path": "hunt"
+    }
+]
