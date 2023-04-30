@@ -4,6 +4,7 @@
         "name": "All-Stars Invite",
         "startDate": "2023-03-21T00:00:00.000Z",
         "endDate": "2023-06-06T15:59:59.000Z",
+        "link": "https://honkai-star-rail.fandom.com/wiki/All-Stars_Invite",
         "type": "web"
     },
     {
@@ -11,6 +12,7 @@
         "name": "A World Beyond",
         "startDate": "2023-04-25T16:00:00.000Z",
         "endDate": "2023-06-05T19:59:59.000Z",
+        "link": "https://honkai-star-rail.fandom.com/wiki/A_World_Beyond",
         "type": "daily"
     },
     {
@@ -18,6 +20,7 @@
         "name": "Departure Festival",
         "startDate": "2023-04-30T11:30:00.000Z",
         "endDate": "2023-04-30T13:30:00.000Z",
+        "link": "https://honkai-star-rail.fandom.com/wiki/Departure_Festival",
         "type": "web"
     }
 ]

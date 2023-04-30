@@ -4,6 +4,7 @@
         "name": "Departure Warp",
         "startDate": null,
         "endDate": null,
+        "link": "https://honkai-star-rail.fandom.com/wiki/Departure_Warp",
         "characters": {
             "promoted": [],
             "standard": []
@@ -14,6 +15,7 @@
         "name": "Stellar Warp",
         "startDate": null,
         "endDate": null,
+        "link": "https://honkai-star-rail.fandom.com/wiki/Stellar_Warp",
         "characters": {
             "promoted": [],
             "standard": []
@@ -24,6 +26,7 @@
         "name": "Butterfly on Swordtip",
         "startDate": "2023-04-25T03:00:00.000Z",
         "endDate": "2023-05-17T09:59:59.000Z",
+        "link": "https://honkai-star-rail.fandom.com/wiki/Butterfly_on_Swordtip/2023-04-26",
         "characters": {
             "promoted": [
                 20,
@@ -61,6 +64,7 @@
         "name": "Brilliant Fixation",
         "startDate": "2023-04-25T03:00:00.000Z",
         "endDate": "2023-05-17T09:59:59.000Z",
+        "link": "https://honkai-star-rail.fandom.com/wiki/Brilliant_Fixation/2023-04-26",
         "characters": {
             "promoted": [],
             "standard": []

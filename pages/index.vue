@@ -93,6 +93,7 @@ let activeBanners = banners.filter((banner) => {
                     color="grey-10"
                     align="between"
                     class="full-width full-height"
+                    :href="event.link"
                 >
                     <q-chip color="primary">{{ event.type }}</q-chip>
                     <div class="column text-right">
@@ -121,6 +122,7 @@ let activeBanners = banners.filter((banner) => {
                     color="grey-10"
                     align="between"
                     class="full-width full-height"
+                    :href="event.link"
                 >
                     <q-chip color="primary">{{ event.type }}</q-chip>
                     <div class="column text-right">
@@ -151,6 +153,7 @@ let activeBanners = banners.filter((banner) => {
                     color="grey-10"
                     stack
                     class="full-width full-height q-pt-none q-px-none"
+                    :href="banner.link"
                 >
                     <q-img :src="`/images/warps/${banner.id}.webp`" />
                     <div class="column text-center q-mt-xs q-px-md">
