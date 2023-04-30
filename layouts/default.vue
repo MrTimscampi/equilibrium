@@ -41,7 +41,7 @@ function toggleLeftDrawer() {
         </q-drawer>
 
         <q-page-container>
-            <q-page class="q-mx-md q-mt-md q-mb-xl">
+            <q-page class="q-px-md q-pt-md q-pb-xl">
                 <router-view />
             </q-page>
         </q-page-container>
